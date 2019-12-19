@@ -5,5 +5,10 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
+<<<<<<< HEAD
+		System.out.println("BBBBB");
+=======
+		 System.out.println("AAAAA");
+>>>>>>> bdb739b78dfc8fd10bbf73ae28686f23a51fedac
     }
 }
